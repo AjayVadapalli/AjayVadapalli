@@ -31,5 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayvadapalli&show_icons=true&locale=en&layout=compact" alt="ajayvadapalli" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayvadapalli&show_icons=true&locale=en" alt="ajayvadapalli" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajayvadapalli&" alt="ajayvadapalli" /></p>
