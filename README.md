@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayvadapalli&label=Profile%20views&color=0e75b6&style=flat" alt="ajayvadapalli" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@ajay1124373" target="blank"><img src="https://img.shields.io/twitter/follow/@ajay1124373?logo=twitter&style=for-the-badge" alt="ajay1124373" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@ajay1124373" target="blank"><img src="https://img.shields.io/twitter/follow/ajay1124373?logo=twitter&style=for-the-badge" alt="ajay1124373" /></a> </p>
 
 - 🌱 I’m currently learning **React, Django , JAVA+DSA**
 
