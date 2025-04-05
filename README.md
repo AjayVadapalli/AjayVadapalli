@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **React, Django , JAVA+DSA**
 
-- 👨‍💻 All of my projects are available at [ajayvadapalli.github.io/](https://ajayvadapalli.github.io/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://ajayvadapalli.github.io/)
 
-- 📝 I regularly write articles on [https://medium.com/@Ajay_Vadapalli](https://medium.com/@Ajay_Vadapalli)
+- 📝 I regularly write articles on [Medium](https://medium.com/@Ajay_Vadapalli)
 
 - 💬 Ask me about **React , JAVA+DSA**
 
