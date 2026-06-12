@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **vajaysivasurya@gmail.com**
 
-- 📄 Know about my experiences, take a look at my [Resume](https://drive.google.com/file/d/1wivg8gHdm45bRUSenRQcOXuUFmubKe53/view)
+- 📄 Know about my experiences, take a look at my [Resume](https://drive.google.com/file/d/1ZkNHQMJWsWFuK02JTuZmq-whJh9he5-f/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I'm just curious.**
 
