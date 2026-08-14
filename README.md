@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ajay</h1>
-<h3 align="center">A passionate Web developer and Data Analyst Enthusiast from India</h3>
+<h3 align="center">Aspiring Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/550x/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayvadapalli&label=Profile%20views&color=0e75b6&style=flat" alt="ajayvadapalli" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ajay1124373" target="blank"><img src="https://img.shields.io/twitter/follow/ajay1124373?logo=twitter&style=for-the-badge" alt="ajay1124373" /></a> </p>
 
-- 🌱 I’m currently learning **React, Django , JAVA+DSA**
+- 🌱 I’m currently learning AI/ML, Full-Stack Development, and DSA
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://ajayvadapalli.github.io/)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@Ajay_Vadapalli)
 
-- 💬 Ask me about **React , JAVA+DSA**
+- 💬 💬 Ask me about AI/ML, React, Java, and DSA
 
 - 📫 How to reach me **vajaysivasurya@gmail.com**
 
-- 📄 Know about my experiences, take a look at my [Resume](https://drive.google.com/file/d/1ZkNHQMJWsWFuK02JTuZmq-whJh9he5-f/view?usp=sharing)
+- 📄 Know about my experiences, take a look at my [Resume](https://drive.google.com/file/d/1wivg8gHdm45bRUSenRQcOXuUFmubKe53/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm just curious.**
 
