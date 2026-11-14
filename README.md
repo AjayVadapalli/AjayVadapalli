@@ -18,7 +18,7 @@
 - 👨‍💻 All of my projects are available at [ajayvadapalli.github.io](https://ajayvadapalli.github.io/)
 - 💬 Ask me about **AI, Web Development**
 - 📫 Reach me at **vajaysivasurya@gmail.com**
-- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1wivg8gHdm45bRUSenRQcOXuUFmubKe53/view?usp=sharing)
+- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1-FDl238zaMwto26N3E29nNC8oI5QkRRW/view?usp=sharing)
 
 <br clear="both"/>
 
